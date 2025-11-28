@@ -20,14 +20,14 @@ Contains medical attributes such as:
 
 
 
-## 🤖 **Models Applied**
+ **Models Applied**
 
 * **Logistic Regression** (primary model)
 * Optional alternative model: **Decision Tree Classifier**
 
 ---
 
-## **Key Results & Findings**
+ **Key Results & Findings**
 
 * The Logistic Regression model achieved **good accuracy** on the test dataset.
 * **Confusion matrix** showed balanced performance across both classes.
