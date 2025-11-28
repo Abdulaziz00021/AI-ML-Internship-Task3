@@ -1,4 +1,4 @@
-# **Heart Disease Prediction – Machine Learning Project**
+# **Heart Disease Prediction**
 
 ##  **Task Objective**
 
